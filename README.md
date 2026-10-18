@@ -40,7 +40,7 @@ Used for building client-server messaging systems (`Simple-Email` / Sigmail), cr
 
 ### Workflow and delivery
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" alt="Workflow and delivery tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Workflow and delivery tools" />
 </p>
 
 Applied through repository version control, feature branching, API testing, UI prototyping, and structured software development workflows.
