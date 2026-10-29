@@ -1,9 +1,10 @@
 <div align="center">
-  <h3><b>Information Technology Student · Full-Stack Web & Mobile Development</b></h3>
-  <p>Building practical digital products with structured backend systems, responsive user interfaces, and reliable workflows.</p>
-  
+  <h1>Fabio Francisco</h1>
+  <h3>Information Technology Student · Full-Stack Web & Mobile Development</h3>
+  <p>I build web and mobile apps, from the database and API to the screen people actually use.</p>
+
   <p>
-    <a href="https://linkedin.com/in/USERNAME_LINKEDIN_ANDA](https://www.linkedin.com/in/fabio-francisco-49454029a" target="_blank">
+    <a href="https://www.linkedin.com/in/fabio-francisco-49454029a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:fabiofrans.work@gmail.com">
@@ -16,44 +17,58 @@
 
 ## About
 
-I am an Information Technology student focusing on full-stack web application development, cross-platform mobile programming, and backend systems. I enjoy turning functional concepts into working applications—from full-stack e-commerce platforms and CRUD management portals to interactive card interfaces and network-based messaging systems.
+I'm an Information Technology student working on full-stack web applications, cross-platform mobile apps, and backend systems. I like taking an idea and shipping it as something that works: an e-commerce platform with an admin dashboard, an insurance app on mobile, or a small study tool I wanted for myself.
 
 ---
 
-## Project-based skills
+## Tech stack
 
-The tools and technologies below are grouped by how I have applied them across my repositories and coursework, rather than by arbitrary percentage ratings.
+**Web (front end and back end)**
 
-### End-to-end product development
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,laravel,php,bootstrap,tailwind,html,css" alt="End-to-end web stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,laravel,php,tailwind,bootstrap,vite,html,css" alt="Web stack" />
 </p>
 
-Applied across full-stack MERN e-commerce platforms, role-based authentication, shopping cart & order management workflows, responsive frontend landing pages, and Laravel-based CRUD web applications.
+**Mobile and data**
 
-### Mobile, systems & academic prototypes
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,flutter,dart,sqlite,mysql" alt="Systems and mobile stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,sqlite,mysql" alt="Mobile and data stack" />
 </p>
 
-Used for building client-server messaging systems (`Simple-Email` / Sigmail), cross-platform mobile card interfaces (`Pokemon-Card`), data modeling, and object-oriented programming exercises.
+**Tools**
 
-### Workflow and delivery
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Workflow and delivery tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
 </p>
-
-Applied through repository version control, feature branching, API testing, UI prototyping, and structured software development workflows.
 
 ---
 
-## Selected Projects & Repositories
+## Projects
 
-* **[BakeHouse](https://github.com/FabioCoco/BakeHouse)** — A full-stack MERN (MongoDB, Express.js, React.js, Node.js) bakery e-commerce and order management system featuring role-based authentication, an interactive shopping cart, and an admin dashboard.
-* **[Simple-Email (Sigmail)](https://github.com/FabioCoco/Simple-Email)** — A Python-based messaging system implementing client-server architecture and structured message handling.
-* **[Football-Player-Card](https://github.com/FabioCoco/Football-Player-Card) & [Player-card-football](https://github.com/FabioCoco/Player-card-football)** — Interactive football player card web applications built using **Next.js, TypeScript, and Bootstrap** to display structured player statistics and profiles.
-* **[Pokemon-Card](https://github.com/FabioCoco/Pokemon-Card)** — An application designed to render and manage detailed Pokémon card information and attributes.
-* **[535240077_LaravelCRUD](https://github.com/FabioCoco/535240077_LaravelCRUD)** — Responsive web portfolio and CRUD management system built with **Laravel and Bootstrap** to showcase projects and manage contact information professionally.
-* **[Portofolio-NextJS](https://github.com/FabioCoco/Portofolio-NextJS) & [Landing-Page-NextJS](https://github.com/FabioCoco/Landing-Page-NextJS)** — Modern, responsive web portfolio and landing page implementations crafted with **Next.js and TypeScript**.
+### [BakeHouse](https://github.com/FabioCoco/BakeHouse)
+`MongoDB` `Express.js` `React` `Node.js`
 
----
+Full-stack bakery e-commerce and order management system. It has role-based authentication, a shopping cart, and an admin dashboard for managing
+products and orders.
+
+### [Dapute](https://github.com/Llorente14/Dapute)
+`Laravel` `Livewire` `Tailwind CSS` `Alpine.js`
+
+A made-to-order cookie e-commerce MVP built on the TALL stack with an action-based architecture. Developed as a Final Semester Exam (UAS) project
+for a software course.
+
+### [Learra](https://github.com/KamingLo/Learra)
+`Flutter` `Dart` `Express.js` `MongoDB`
+
+A mobile insurance app. Users can browse and buy insurance products, check the details and status of their policies, pay premiums, and file claims with supporting documents while tracking their stae Express.js and MongoDB service.
+
+### [TrainityNext](https://github.com/KamingLo/TrainityNe
+`Next.js` `TypeScript` `MongoDB` `NextAuth`
+
+A learning platform with separate user and admin areas, authentication, and course and product pages. It also sends email through Nodemailer and
+generates PDF certificates. Live at [trainitynext.vercel.cel.app).
+
+### [Panda Belajar Mandarin](https://github.com/FabioCoco
+`React` `Vite` `Tailwind CSS`
+
+A Mandarin vocabulary web app with flip flashcards, multiple-choice quizzes, and a 3-box Leitner system. It has 286 words in 6 thematic chapters, works on phone and desktop, and stores progress in the br
