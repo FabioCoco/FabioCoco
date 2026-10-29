@@ -62,13 +62,13 @@ for a software course.
 
 A mobile insurance app. Users can browse and buy insurance products, check the details and status of their policies, pay premiums, and file claims with supporting documents while tracking their stae Express.js and MongoDB service.
 
-### [TrainityNext](https://github.com/KamingLo/TrainityNe
+### [TrainityNext](https://github.com/KamingLo/TrainityNext)
 `Next.js` `TypeScript` `MongoDB` `NextAuth`
 
 A learning platform with separate user and admin areas, authentication, and course and product pages. It also sends email through Nodemailer and
 generates PDF certificates. Live at [trainitynext.vercel.cel.app).
 
-### [Panda Belajar Mandarin](https://github.com/FabioCoco
+### [Panda Belajar Mandarin](https://github.com/FabioCoco/Belajar_Mandarin)
 `React` `Vite` `Tailwind CSS`
 
 A Mandarin vocabulary web app with flip flashcards, multiple-choice quizzes, and a 3-box Leitner system. It has 286 words in 6 thematic chapters, works on phone and desktop, and stores progress in the br
